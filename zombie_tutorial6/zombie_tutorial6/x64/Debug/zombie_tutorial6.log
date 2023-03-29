@@ -1,0 +1,2 @@
+﻿Enemy.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Undead::setDestination(int,int)" (?setDestination@Undead@@UEAAXHH@Z)
+C:\Users\moham\source\repos\zombie_tutorial6\x64\Debug\zombie_tutorial6.exe : fatal error LNK1120: 1 unresolved externals
