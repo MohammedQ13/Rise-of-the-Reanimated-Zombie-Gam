@@ -1,1 +1,1 @@
-# Rise-of-the-Reanimated-Zombie-Gam
+# Rise-of-the-Reanimated-Zombie-Game
